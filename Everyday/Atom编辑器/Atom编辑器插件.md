@@ -1,0 +1,20 @@
+### 必装插件列表
+- fileIcons `显示文件图标`
+- emmet `快速编辑html`
+- atom-ctags` 函数跳转`
+- color-picker `颜色选择`
+- minimap `右侧小地图`
+- valign `等号对齐`
+- linter linter-php `语法错误提示`
+- autocomplete-php `php参数提示`
+- symbols-tree-view `解析类树`
+- php-cs-fixer `整理代码psr2`
+- atom-beautify `整理各种代码`
+- atom-bootstrap3 `提示样式`
+- jquery-snippets `提示jq`
+- docblockr `详细注释`
+- language-blade `laravel模板语法`
+- markdown-scroll-sync `markdown预览时能随编辑部分同步滚动`
+- save-session `自动保存上次关闭时的状态`
+- terminal-plus `在编辑器下方内置一个命令行窗口`
+- atom-html-preview `html预览`
