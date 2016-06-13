@@ -1,54 +1,19 @@
 # MDwiki
 
-[About](index.md)
+[Home](index.md)
+[About](about.md)
 
-[Docs]()
+[目录中的文章]()
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
-  ----
-  * # Advanced
-  * [Customizing](customizing.md)
+  * [Atom编辑器](Everyday/Atom编辑器)
+  * [Git](Everyday/Git)
+  * [JavaScript](Everyday/JavaScript)
+  * [laravel](Everyday/laravel)
+  * [LNMP环境配置](Everyday/LNMP环境配置)
+  * [Mysql](Everyday/Mysql)
+  * [NeedToLean](Everyday/NeedToLean)
+  * [Wechat](Everyday/Wechat)
 
-[Gimmicks](gimmicks.md)
-
-[Tutorials]()
-
-  * [About the Tutorials](tutorials.md)
-  ----
-  * # 简略内容
-  * [Hosting with GitHub](tutorials/github.md)
-  * [Hosting with Google Drive](tutorials/drive.md)
-  * [Use with Dropbox](tutorials/dropbox.md)
-  * [Set up MDwiki on IIS](tutorials/iis/iis.md)
-
-[Examples](examples.md)
-[Download](download.md)
-[Contribute](contribute/index.md)
-[Blog](blog.md)
-[Forum](forum.md)
-
-
-[gimmick:theme (inverse: false)](spacelab)
+[gimmick:theme (inverse: false)](bootstrap)
 
 [gimmick:ThemeChooser](Change theme)
-
-[gimmick:forkmeongithub](http://github.com/Dynalon/mdwiki/)
-
-<!-- counter pixel for counting visitors -->
-<!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-44627253-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
