@@ -15,7 +15,7 @@
   ----
   * # Mac
   * [Post 4](post4.md)
-
+----
 [Links](links.md)
 ----
 [gimmick:themechooser](Theme)
