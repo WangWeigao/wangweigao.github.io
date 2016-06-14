@@ -1,6 +1,11 @@
+
+
 # 在CentOS6.6中
 ## 安装PHP5.6
 按链接向导安装PHP5.6(发现可以安装PHP7了)
+
+![](http://placekitten.com/g/550/450 "First of two kittens")
+![](http://placekitten.com/g/550/450 "Second of two kittens")
 > https://www.mojowill.com/geek/howto-install-php-5-4-5-5-or-5-6-on-centos-6-and-centos-7/  
 `需要在remi.repo中开启[remi-php56]`
 

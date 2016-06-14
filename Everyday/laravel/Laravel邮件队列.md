@@ -11,17 +11,17 @@ Redis: predis/predis ~1.0
     REDIS_PASSWORD = redis
     REDIS_PORT     = 6379
 
-    MAIL_DRIVER=log
-    MAIL_HOST=smtp.163.com
-    MAIL_PORT=25
-    MAIL_USERNAME=XXX@163.com
-    MAIL_PASSWORD=XXX
-    MAIL_ENCRYPTION=null
+    MAIL_DRIVER     = log
+    MAIL_HOST       = smtp.163.com
+    MAIL_PORT       = 25
+    MAIL_USERNAME   = XXX@163.com
+    MAIL_PASSWORD   = XXX
+    MAIL_ENCRYPTION = null
 
 ## 基本代码实现
 > 任务实例 [实际执行的代码]
 
-```
+```php
 <?php
 namespace App\Jobs;
 
@@ -66,7 +66,7 @@ class SendReminderEmail extends Job implements ShouldQueue
 ```
 > 推送上述任务到队列
 
-```
+```php
 <?php
 
 namespace App\Http\Controllers;
